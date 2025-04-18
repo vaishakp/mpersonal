@@ -1,29 +1,29 @@
 # site settings
-title: Massively
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+title: Vaishak Prasad
+subtitle: Personal and resources site
+email: vaishakprasad@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/massively-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+url: "vaishakp.github.io/site1" # the base hostname & protocol for your site
+author: Vaishak Prasad
+street_address: 251 Pollock Rd, University Park
+city: State College
+state: PA
+zip_code: 16802
 country: United States of America
-phone: (716) 555-5555
+phone:
 
 # social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/andrewbanchich
-gitlab_url: https://gitlab.com/u/andrewbanchich
+github_url: https://github.com/vaishakp
+gitlab_url: https://gitlab.com/u/vaishakp
 googleplus_url:
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/vaishakp
 
 # build settings
 markdown: kramdown
