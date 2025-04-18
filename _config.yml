@@ -4,7 +4,7 @@ subtitle: Personal and resources site
 email: vaishakprasad@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/massively-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "vaishakp.github.io/site1" # the base hostname & protocol for your site
+url: "vaishakp.github.io" # the base hostname & protocol for your site
 author: Vaishak Prasad
 street_address: 251 Pollock Rd, University Park
 city: State College
